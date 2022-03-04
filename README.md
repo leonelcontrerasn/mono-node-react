@@ -1,6 +1,6 @@
 # mono-node-react
 
-This is a monorepo where we made a review about how to apply advanced concepts like:
+This is a monorepo where we made a review about how to apply advanced concepts in Nodejs and React topics like:
 
 - Caching data with redis in order to improve the time response
 - Testing beyond unit testing with Jest and Puppeteer

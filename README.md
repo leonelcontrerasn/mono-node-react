@@ -9,4 +9,4 @@ This is a monorepo where we made a review about how to apply advanced concepts i
 - How to inyect new functionality to third party libraries without affect
 the base functionality.
 
-And much more.
+And much more...
